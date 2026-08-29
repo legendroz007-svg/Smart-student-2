@@ -16,7 +16,8 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
+    "package": "com.legendroz.smartstudent",
+   "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
