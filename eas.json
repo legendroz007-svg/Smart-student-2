@@ -9,8 +9,8 @@
         "buildType": "apk"
       },
       "env": {
-        "EXPO_SKIP_MANIFEST_VALIDATION": "1",
-        "EAS_NO_DOCTOR": "1"
+        "YARN_OPTS": "--ignore-engines",
+        "NODE_OPTIONS": "--ignore-engines"
       }
     }
   }
