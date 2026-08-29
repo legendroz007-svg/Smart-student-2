@@ -7,6 +7,10 @@
       "distribution": "internal",
       "android": {
         "buildType": "apk"
+      },
+      "env": {
+        "EXPO_SKIP_MANIFEST_VALIDATION": "1",
+        "EAS_NO_DOCTOR": "1"
       }
     }
   }
