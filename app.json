@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "smart-student_2",
-    "slug": "snack-b5026688-b489-42d9-b9d0-b9df7be7da1b",
+    "name": "Smart Student",
+    "slug": "Smart-student",
     "owner": "dhruv-edu",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -26,6 +26,5 @@
     }
   }
 }
-
 
 
