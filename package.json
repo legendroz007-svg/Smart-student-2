@@ -1,10 +1,12 @@
 {
+  "name": "Smart-student-2",
+  "version": "1.0.0",
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web"
   },
   "dependencies": {
@@ -12,8 +14,11 @@
     "expo-status-bar": "~3.0.9",
     "react": "19.1.0",
     "react-native": "0.81.5",
-    "react-native-paper": "4.9.2",
+    "react-native-paper": "^4.9.2",
     "@expo/vector-icons": "^15.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2"
   },
   "private": true
 }
