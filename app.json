@@ -23,8 +23,12 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7a37ffcf-1090-48e0-ae8b-70bc10a696ee"
+      }
     }
   }
 }
-
 
